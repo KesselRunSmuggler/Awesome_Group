@@ -5,6 +5,13 @@ Satoru
 Hao
 Toby
 
+## FINAL VERSIONS OF FILES:
+>
+Backtesting_With_Python_Final_Complete.ppxt
+>
+project_1_dashboard_final_3.ipynb
+
+
 # Backtesting with Python 
 
 At the end of the day, investors and traders are here to make money. Whether you're on social media, talking to friends or to fund managers, people claim all the time that they can beat the market. 
