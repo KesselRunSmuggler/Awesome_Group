@@ -82,11 +82,11 @@ Taking into account the tax implications of trading frequently, and the returns 
 
 Apple Returns
 >
-![title](Images/Apple_return.png)
+![title](Images/Apple_Return.png)
 
 Ford Returns
 >
-![title](Images/ford_return.png)
+![title](Images/Ford_Return.png)
 
 Bank of America Returns
 >
@@ -96,15 +96,15 @@ Bank of America Returns
 
 Apple Win Rate
 >
-![title](Images/apple_win.png)
+![title](Images/Apple_Win.png)
 
 Ford Win Rate
 >
-![title](Images/ford_win.png)
+![title](Images/Ford_Win.png)
 
 Bank of America Win Rate
 >
-![title](Images/BAC_win.png)
+![title](Images/BAC_Win.png)
 
 
 ## Challenges Faced
