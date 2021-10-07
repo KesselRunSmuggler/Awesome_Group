@@ -26,13 +26,13 @@ The three key strategies we decided to use were simple moving averages, relative
 Simple moving average uses constantly updated average price data over a chosed period and then making trades based on when these moving averages cross one another on a chart. We used the 20 day MA and the 50 day MA, a made a buy signal when the 20 moves above the 50 day, and a sell signal when the 20 day moves below the 50 day.
 
 Apple SMA
-![title](Apple_SMA.png)
+![title](Images/Apple_SMA.png)
 
 Ford SMA
-(images/Ford_SMA.png)
+![title](Images/Ford_SMA.png)
 
 Bank of America SMA
-[title](images/BAC_SMA.png)
+(Images/BAC_SMA.png)
 
 ### MACD:
 Moving average convergence divergence is a trend-following momentum indicator that shows the relationship between two moving averages of an asset's price. It's calculated by subtracting the 26-period exponential moving average (EMA) from the 12-periof EMA.
